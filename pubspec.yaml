@@ -9,8 +9,6 @@ homepage: https://github.com/CHB61/flutter-multi-select
 environment:
   sdk: '>=3.6.0 <4.0.0'
 
-resolution: workspace
-
 dependencies:
   flutter:
     sdk: flutter
